@@ -5,6 +5,7 @@ import javax.persistence.Embeddable;
 @Embeddable
 public class Address {
 
+	//Test
 	private String street;
 	private String city;
 	private String state;
